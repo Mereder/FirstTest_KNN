@@ -81,7 +81,6 @@ def file2matrix(filename):
             letterLabelVector.append('Z')
         index += 1
     return returnMat, letterLabelVector
-    pass
 
 
 def autoNorm(letterRecog):
